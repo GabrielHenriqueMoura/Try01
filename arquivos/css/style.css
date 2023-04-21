@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+div.container {
+    max-width: 960px;
+    margin: auto;
+    padding: 8px;
+    background-color: #9C5B76;
+}
+
+div.container h1{
+    text-align: center;
+}
+.bg {
+    background-color: #8B405F;
+}
